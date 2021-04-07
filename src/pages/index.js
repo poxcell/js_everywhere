@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 
 import Home from './home'
 import MyNotes from './mynotes'
-import Favorites from './Favorites'
+import Favorites from './favorites'
 import NotePage from './note'
 import SignUp from './signup'
 import SignIn from './signin'

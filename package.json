@@ -16,12 +16,10 @@
     "url": "git+https://github.com/javascripteverywhere/web.git"
   },
   "keywords": [],
-  "author": "Adam Scott <adam@jseverywhere.io>",
+  "author": "Manuel lira",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/javascripteverywhere/web/issues"
-  },
-  "homepage": "https://github.com/javascripteverywhere/web#readme",
+  
+  "homepage": "",
   "dependencies": {
     "@apollo/client": "3.0.0-beta.24",
     "@types/react": "^16.9.17",
