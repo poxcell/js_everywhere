@@ -11,7 +11,13 @@ const Home = () => {
   // if the data is loading, display a loading message
   if (loading) return <p>Loading...</p>;
   // if there is an error fetching the data, display an error message
-  if (error) return <p>Error! {error}</p>;
+  if (error) return (
+    <div>
+      <p>Error</p>
+      {console.log(error)}
+      {console.log(data)}
+    </div>
+  );
 
   // if the data is successful, display the data in our UI
   return (
