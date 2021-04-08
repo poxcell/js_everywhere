@@ -14,6 +14,7 @@ const Home = () => {
   if (error) return (
     <div>
       <p>Error</p>
+      <p>Error: {error}</p>
       {console.log(error)}
       {console.log(data)}
     </div>
